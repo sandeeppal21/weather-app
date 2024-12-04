@@ -11,8 +11,14 @@ A simple and dynamic weather application built with React that fetches real-time
 
 
  *Real-Time Weather Data: Fetches live weather data for any city using a weather API.
+
+ 
  *Dynamic Images and Icons: Displays weather-based visuals for a rich user experience.
+
+ 
  *City-Based Search: Allows users to search for weather details of any city worldwide.
+
+ 
  *Error Handling: Manages errors like network issues or invalid city names gracefully, ensuring a smooth user experience.
 
 
