@@ -26,6 +26,12 @@ A simple and dynamic weather application built with React that fetches real-time
 
 
  *React
+
+ 
  *JavaScript
+
+ 
  *HTML5 & CSS3
+
+ 
  *Weather API
